@@ -2,9 +2,9 @@
 
 ## Our Team
 
-Danae Ludy
-Alexa Ramirez-Salinas
-Enrique Calleros
+Danae Ludy <br>
+Alexa Ramirez-Salinas <br>
+Enrique Calleros <br>
 Johana Hermosillo Gutierrez
 
 # Setup
