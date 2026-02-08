@@ -1,8 +1,11 @@
-# TODO: Replace with your team name
+# Team JADE
 
 ## Our Team
 
-TODO: Replace with your team members
+Danae Ludy
+Alexa Ramirez-Salinas
+Enrique Calleros
+Johana Hermosillo Gutierrez
 
 # Setup
 
